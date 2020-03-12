@@ -23,6 +23,6 @@ flutter:
     platforms:
       android:
         package: io.flutter.plugins.webviewmedia
-        pluginClass: WebViewFlutterPlugin
+        pluginClass: WebViewMediaFlutterPlugin
       ios:
-        pluginClass: FLTWebViewFlutterPlugin
+        pluginClass: FLTWebViewMediaFlutterPlugin
